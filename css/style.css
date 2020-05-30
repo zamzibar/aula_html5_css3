@@ -1,0 +1,30 @@
+body {
+    background:rgb(109, 179, 100);
+    margin-left: 170px;
+    margin-right: 170px;
+    
+}
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+
+    margin-bottom: 50px;
+}
+
+/* ponto para identificar classe*/
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 36px;
+}
